@@ -1,0 +1,8 @@
+*.hdll
+*.so
+code/
+out/
+Heapvaders/
+.vscode/
+*.pak
+*.hl
