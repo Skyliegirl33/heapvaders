@@ -6,3 +6,5 @@ Heapvaders/
 .vscode/
 *.pak
 *.hl
+*.c
+*.h
