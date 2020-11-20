@@ -3,7 +3,7 @@ A Space Invaders clone written in Heaps
 
 ![alt text][logo]
 
-[logo]: heapvaders.png
+[logo]: heapvaders-preview.png
 
 ## Building
 `make`
